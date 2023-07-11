@@ -6,6 +6,7 @@
     font-family: 'Poppins', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
+      /* this is header section */
 .header{
     display: flex;
     justify-content: space-between;
@@ -34,3 +35,93 @@
 .menu-list:hover{
     color: #E55473;
 }
+   /* this is banner section */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 160px 0px;
+    background-color: #FCEEF1;
+}
+.banner-heading{
+    width: 470px;
+    font-size: 50px;
+    color: #272727;
+}
+.banner-text{
+    width: 450px;
+    font-size: 12px;
+    color: #777777;
+    line-height: 1.5;
+    padding-top: 15px;
+}
+.banner-img1{
+    width: 400px;
+    height: 500px;    
+}
+.btn{
+    margin-top: 20px;
+    padding: 13px 25px;
+    border-radius: 5px;
+    background: #E55473;
+    border: none;
+    color: #fff;
+}
+     /* This is Featured section */
+    .featured-heading{
+        text-align: center;
+        font-size: 30px;
+        color: #272727;
+    }
+    .featured-text{
+        text-align: center;
+        font-size: 12px;
+        color: #777777;
+        line-height: 1.5;
+        padding-top: 15px;
+        padding-bottom: 40px;
+    }
+    .featured-section{
+        padding: 120px 160px 0px;
+    }
+    .box1{
+        width: 310px;
+        height: 360px;
+        background-color: #F1DDE7;
+        border-radius: 250px 250px 0px 0px;
+    }
+    .box2{
+        width: 310px;
+        height: 360px;
+        background-color: #D9EFF0;
+        border-radius: 250px 250px 0px 0px;
+    }
+    .box3{
+        width: 310px;
+        height: 360px;
+        background-color: #E3EBDB;
+        border-radius: 250px 250px 0px 0px;
+    }
+    .box-img{
+        width: 220px;
+        height: 280px;
+        margin-top: 80px;
+        margin-left: 40px;
+    }
+    .box-title{
+        padding-top: 20px;
+        text-align: center;
+        font-weight: 600;
+        color: #272727;
+        text-decoration: underline;
+    }
+    .featured-box{
+        display: flex;
+        justify-content: space-around;
+    }
+    /* This is Extra section aria */
+
+    .icon{
+        width: 50px;
+        
+    }
