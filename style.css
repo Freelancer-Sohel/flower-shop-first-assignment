@@ -121,7 +121,77 @@
     }
     /* This is Extra section aria */
 
-    .icon{
-        width: 50px;
-        
+    .extra-section{
+        background-color: #F4F4F4;
+        margin: 120px 160px 0px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        border-radius: 8px;
+        padding: 50px 0px;
     }
+
+    .icon{
+        width: 60px;
+        margin-left: 40%;
+    }
+    .icon-title{
+        color: #686868;
+        padding-top: 20px;
+    }
+    /* This is 25% Of section aria */
+    .discount-section{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color: #FDF6F8;
+        margin: 100px 0px;
+        padding: 80px 160px;
+    }
+    .dis-sec-heading{
+        font-size: 27px;
+        text-align: center;
+        color: #272727;
+        width: 400px;
+        margin-left: 25px;
+    }
+    .off{
+        color: #E55473;
+    }
+    .dis-sec-text{
+        padding-top: 15px;
+        line-height: 1.5;
+        width: 450px;
+        text-align: center;
+        font-size: 12px;
+        color: #777777;
+    }
+    .dis-sec-img{
+        width: 220px;
+        height: 280px;
+    }
+    .btnd{
+        margin-top: 20px;
+        margin-left: 40%;
+        padding: 13px 25px;
+        border-radius: 5px;
+        background: #E55473;
+        border: none;
+        color: #fff;
+    }
+    /* This is Instagram section aria */
+    .instagram-section{
+        margin: 0px 160px 80px;
+    }
+
+    .insta-box{
+        display: flex;
+        justify-content: space-around;
+    }
+    .insta-img{
+        width: 230px;
+        height: 268px;
+    }
+    /* This is subscribe section aria */
+
+
